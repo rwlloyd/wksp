@@ -54,6 +54,9 @@ Still to Add
     - Orbital Sander 
     - Die Grinder (straight) 
     - Die Grinder (90degree) 
+- Spindexer with er32 collet chuck
+- er32 collet set
+- er32 collet blocks. Square and Hex.
 
 Toolsets
 - Large Socket set (20 - 50mm?)
